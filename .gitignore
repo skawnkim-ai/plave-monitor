@@ -1,0 +1,16 @@
+# 민감 정보 / 인증
+.env
+credentials.json
+token.json
+
+# 런타임 로그 / 상태 / 캐시
+*.log
+__pycache__/
+*.pyc
+status.json
+sent_log.json
+sent_log.backup.json
+downloads/
+
+# OS
+.DS_Store
