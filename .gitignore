@@ -3,6 +3,10 @@
 credentials.json
 token.json
 
+# 평문 비밀번호 하드코딩 이력 있는 디버그 스크립트 — GitHub에서 제거, 로컬 전용
+test_login.py
+debug_login.py
+
 # 런타임 로그 / 상태 / 캐시
 *.log
 __pycache__/
